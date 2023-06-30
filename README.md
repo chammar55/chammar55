@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" src="https://media.licdn.com/dms/image/D4D16AQH8U0Dc-KlDPA/profile-displaybackgroundimage-shrink_350_1400/0/1685611733810?e=1693440000&v=beta&t=G2JHLcJTlEcfOyF3A-56HSD0qMeBgrlAQOTwUCWw9Lg">
 <h1 align="center">Hi 👋, I'm Muhammad Ammar Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
